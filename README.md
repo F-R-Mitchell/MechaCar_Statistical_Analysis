@@ -50,3 +50,5 @@ The p-value for lot 2 is .6 and we will fail to reject the null hypothesis if wo
 The p-value for lot 3 is .04 and we will reject the null hypothesis since it is statistcally significant. 
 
 ## Study Design: MechaCar vs Competition
+
+The metric I would like to test how vehicle size and MPG are correlated. My null hypothesis is that vehicles over 3500lbs are less fuel efficient than vehicles over 3500lbs. I would use a simple linear regression since I am testing for correlation. The data needed is various weights of vehicles for the independent variable and their fuel efficiency as the dependent variable.
