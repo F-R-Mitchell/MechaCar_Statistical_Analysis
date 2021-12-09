@@ -21,4 +21,4 @@ Lot Summary:
 
 ![lot summary](https://user-images.githubusercontent.com/87910875/145457744-dae99db9-637d-4cec-96a9-5184172d87cb.png)
 
-The overall variance of PSI of in the image above is 62.2 which is below the 100 PSI limit. 
+The overall variance of PSI of in the image above is 62.2 which is below the 100 PSI limit. The variance of PSI's for lot 1 and 2 are below the limit but the variance of the third lot is well over the limit. 
