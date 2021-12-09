@@ -22,3 +22,10 @@ Lot Summary:
 ![lot summary](https://user-images.githubusercontent.com/87910875/145457744-dae99db9-637d-4cec-96a9-5184172d87cb.png)
 
 The overall variance of PSI of in the image above is 62.2 which is below the 100 PSI limit. The variance of PSI's for lot 1 and 2 are below the limit but the variance of the third lot is well over the limit. 
+
+## T-Tests on Suspension Coils
+
+### Overall t-test
+![t-test](https://user-images.githubusercontent.com/87910875/145485972-8d1724a8-3378-42ba-8dc3-84bc2d5bf634.png)
+
+Although the sample mean is about 94% accurate, it is not statistically significant since the p-value is greater than .05. If the level of confidence is 95%, the we will now fail to reject the null hypothesis.
