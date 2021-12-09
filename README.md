@@ -13,11 +13,11 @@ Although not very accurate, the model can be used to predict mpg of prototypes d
 
 ## Summary Statistics on Suspension Coils
 
-Total Summary: 
+### Total Summary: 
 
 ![total summary](https://user-images.githubusercontent.com/87910875/145457731-1d3e617a-1523-4d6a-b396-81d79d90a50e.png)
 
-Lot Summary: 
+### Lot Summary: 
 
 ![lot summary](https://user-images.githubusercontent.com/87910875/145457744-dae99db9-637d-4cec-96a9-5184172d87cb.png)
 
@@ -25,7 +25,28 @@ The overall variance of PSI of in the image above is 62.2 which is below the 100
 
 ## T-Tests on Suspension Coils
 
-### Overall t-test
+### Overall t-test:
 ![t-test](https://user-images.githubusercontent.com/87910875/145485972-8d1724a8-3378-42ba-8dc3-84bc2d5bf634.png)
 
 Although the sample mean is about 94% accurate, it is not statistically significant since the p-value is greater than .05. If the level of confidence is 95%, the we will now fail to reject the null hypothesis.
+
+### Lot 1 t-test:
+
+![lot1 t-test](https://user-images.githubusercontent.com/87910875/145487692-1844e74d-ad8e-4955-85c0-71e94cf08ae0.png)
+
+The p-value for the t-test of lot 1 is 1 meaning that is statistically significant and we will reject the null hypothesis. 
+
+### Lot 2 t-test
+
+![lot2 t-test](https://user-images.githubusercontent.com/87910875/145487981-c806d736-0e92-4135-a07e-eb2e1e7fad00.png)
+
+The p-value for lot 2 is .6 and we will fail to reject the null hypothesis if would confidence interval is 95% since it is not statistcally significant.
+
+
+### Lot 3 t-test
+
+![lot3 t-test](https://user-images.githubusercontent.com/87910875/145488194-9df3d512-c937-437e-83af-66dd3d808da3.png)
+
+The p-value for lot 3 is .04 and we will reject the null hypothesis since it is statistcally significant. 
+
+## Study Design: MechaCar vs Competition
